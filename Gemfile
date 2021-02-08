@@ -78,7 +78,7 @@ gem 'fog-aws'
 
 # reCaptchaの導入
 gem 'recaptcha', require: "recaptcha/rails"
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 gem 'mini_magick'
 
 # binding.pryの導入
